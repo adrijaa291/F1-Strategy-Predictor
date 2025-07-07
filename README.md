@@ -19,7 +19,7 @@ This project predicts **optimal pit stop strategies** for Formula 1 races based 
 
 ## 📸 UI Preview
 
-> ![Preview](cars.gif)
+> ![Preview](cars.mp4)
 
 ---
 
