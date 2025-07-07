@@ -25,7 +25,7 @@ This project predicts **optimal pit stop strategies** for Formula 1 races based 
 
 ## 🎥 Demo Video
 
-▶️ [Watch the screen recording](https://drive.google.com/file/d/11YpIFQedqJi4NHsrJMXm4Yg8FLtuRuOg/view?usp=sharing)
+▶️ [Watch the screen recording](https://drive.google.com/file/d/1601A3muTpDpAajqXvJ5f8jAv9xm8IyTf/view?usp=sharing)
 
 ---
 
